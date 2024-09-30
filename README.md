@@ -1,9 +1,9 @@
 # Amazon ML Challenge 2024
 
-*Muhmmad Abrar¹, Mhanjhusriee Baskar¹, and Muhammad Waseem²*
+*Muhammad Waseem¹, Muhmmad Abrar R², and Mhanjhusriee Baskar²*
 
-¹Vellore Institute of Technology Chennai
-²Shiv Nadar University Chennai
+¹Shiv Nadar University Chennai
+²Vellore Institute of Technology Chennai
 
 ## Problem Statement
 
