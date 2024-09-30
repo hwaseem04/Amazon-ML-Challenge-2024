@@ -1,9 +1,21 @@
-# Amazon ML Challenge 2024
+# Amazon ML Challenge 2024 - Top 50 Solution
 
 _Muhammad Waseem¹, Muhmmad Abrar R², and Mhanjhusriee Baskar²_
 
 ¹Shiv Nadar University Chennai
 ²Vellore Institute of Technology Chennai
+
+## Introduction
+
+The Amazon ML Challenge 2024 was a prestigious machine learning competition that attracted over 18,000 teams from around the world. This annual event, organized by Amazon, challenges participants to solve real-world problems in e-commerce using cutting-edge machine learning techniques.
+
+Our team, consisting of Muhammad Waseem, Muhmmad Abrar R, and Mhanjhusriee Baskar, is proud to present our solution which secured the **45th position** out of more than 18,000 competing teams. This outstanding achievement places us in the top 0.25% of all participants, demonstrating our technical prowess and innovative approach to solving complex ML problems.
+
+The challenge focused on developing a machine learning model capable of extracting key product details from images, a critical task in the e-commerce industry. Our solution leverages advanced visual language models and custom fine-tuning techniques to achieve high accuracy in entity extraction.
+
+In this repository, we present a detailed breakdown of our approach, including our data preprocessing strategies, model architecture, training methodology, and post-processing techniques. We hope that our work will contribute to the broader ML community and inspire further innovations in the field of visual information extraction.
+
+---
 
 ## Problem Statement
 
