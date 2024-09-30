@@ -1,6 +1,6 @@
 # Amazon ML Challenge 2024
 
-*Muhammad Waseem¹, Muhmmad Abrar R², and Mhanjhusriee Baskar²*
+_Muhammad Waseem¹, Muhmmad Abrar R², and Mhanjhusriee Baskar²_
 
 ¹Shiv Nadar University Chennai
 ²Vellore Institute of Technology Chennai
@@ -25,6 +25,10 @@ The train.csv had a total of 263,859 entries and the test.csv had a total of 131
 ## Model Used
 
 We used Idefics-2, 8B visual language model from hugging face for fine-tuning. The model uses interleaved text and image tokens to extract the required information from the input image. We therefore didn't use an external OCR model.
+
+## Architecture
+
+![Model Architecture](./assets/architecture.png)
 
 ## ML approach
 
@@ -58,11 +62,11 @@ These experiments were intended to evaluate different levels of model adaptation
 
 ### Experiment Results
 
-| Experiment | F1 Score |
-|------------|----------|
-| Without Finetuning | 0.44 |
-| Vanilla Finetuning | 0.56 |
-| Custom Prompted finetuning | 0.616 |
+| Experiment                 | F1 Score |
+| -------------------------- | -------- |
+| Without Finetuning         | 0.44     |
+| Vanilla Finetuning         | 0.56     |
+| Custom Prompted finetuning | 0.616    |
 
 ## Conclusion
 
