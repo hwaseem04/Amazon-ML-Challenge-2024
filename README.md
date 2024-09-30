@@ -7,7 +7,7 @@ _Muhammad Waseem¹, Muhmmad Abrar R², and Mhanjhusriee Baskar²_
 
 ## Introduction
 
-The Amazon ML Challenge 2024 was a prestigious machine learning competition that attracted over 18,000 teams from around the world. This annual event, organized by Amazon, challenges participants to solve real-world problems in e-commerce using cutting-edge machine learning techniques.
+The Amazon ML Challenge 2024 was a prestigious machine learning competition that attracted over 18,000 teams from all over India. This annual event, organized by Amazon, challenges participants to solve real-world problems in e-commerce using cutting-edge machine learning techniques.
 
 Our team, consisting of Muhammad Waseem, Muhmmad Abrar R, and Mhanjhusriee Baskar, is proud to present our solution which secured the **45th position** out of more than 18,000 competing teams. This outstanding achievement places us in the top 0.25% of all participants, demonstrating our technical prowess and innovative approach to solving complex ML problems.
 
